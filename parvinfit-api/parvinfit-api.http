@@ -1,0 +1,6 @@
+@parvinfit_api_HostAddress = http://localhost:5099
+
+GET {{parvinfit_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
