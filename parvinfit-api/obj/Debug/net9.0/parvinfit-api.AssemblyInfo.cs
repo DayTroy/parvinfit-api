@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parvinfit-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d97791ab321fc56798e5cf8666360c658ca3e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("parvinfit-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parvinfit-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

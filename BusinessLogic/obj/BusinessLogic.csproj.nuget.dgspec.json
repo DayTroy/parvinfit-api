@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/daytroy/RiderProjects/parvinfit-api/BusinessLogic/BusinessLogic.csproj": {}
+  },
+  "projects": {
+    "/Users/daytroy/RiderProjects/parvinfit-api/BusinessLogic/BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/daytroy/RiderProjects/parvinfit-api/BusinessLogic/BusinessLogic.csproj",
+        "projectName": "BusinessLogic",
+        "projectPath": "/Users/daytroy/RiderProjects/parvinfit-api/BusinessLogic/BusinessLogic.csproj",
+        "packagesPath": "/Users/daytroy/.nuget/packages/",
+        "outputPath": "/Users/daytroy/RiderProjects/parvinfit-api/BusinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/daytroy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/daytroy/.dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
